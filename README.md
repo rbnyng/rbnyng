@@ -1,6 +1,6 @@
 ### 🫵😲
 
-<img src="Images/int_pointer.png?raw=true" alt="Int Pointer" style="width: 50%; height: auto;"/>
+<img src="Images/int_pointer.png?raw=true" alt="Int Pointer" style="width: 25%; height: auto;"/>
 
 <!--
 **rbnyng/rbnyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
